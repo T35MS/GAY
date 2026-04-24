@@ -1,7 +1,7 @@
 {
     "agent_bot": [
         "puppeteer",
-        "fastfetch"
+        "fastfetch",
 		"headless",
         "selenium",
         "phantomjs",
