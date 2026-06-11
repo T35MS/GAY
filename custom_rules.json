@@ -5456,6 +5456,7 @@
         "proxy",
         "vpn",
         "tor",
+		"bot",
         "anonymizer",
         "anonymous",
         "hidester",
