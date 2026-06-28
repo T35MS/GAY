@@ -2,8 +2,6 @@
     "agent_bot": [
         "puppeteer",
         "fastfetch",
-		"shop.app",
-		"Shop Service (shop.app)",
         "headless",
         "selenium",
         "phantomjs",
